@@ -1,26 +1,26 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user registration (DOCKER UPDATED AGAIN)</h1>
+    <h1>New user registration (DOCKER UPDATED AGAINN)</h1>
     <p>Please fill in this form to create an account. Thanks!</p>
     <hr>
      
-    <label for="Name"><b>Enter Name HERE</b></label>
+    <label for="Name"><b>Enter Name HEREE</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile HERE</b></label>
+    <label for="mobile"><b>Enter mobile HEREE</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email HERE</b></label>
+    <label for="email"><b>Enter Email HEREE</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password HERE</b></label>
+    <label for="psw"><b>Password HEREE</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password HERE</b></label>
+    <label for="psw-repeat"><b>Repeat Password HEREE</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
